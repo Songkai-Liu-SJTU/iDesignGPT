@@ -1,3 +1,4 @@
-![image](https://github.com/user-attachments/assets/d553f344-f24e-428e-90e8-b057caf22b79)
 
-Hello world
+![fig2-3](https://github.com/user-attachments/assets/61c84c04-be06-475a-bb98-5b75139f10a0)
+
+iDesignGPT is a novel framework that integrates large language model with established design methodologies to enable dynamic multi-agent collaboration for problem refinement, information gathering, design space exploration, and iterative optimization.
