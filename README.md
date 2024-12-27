@@ -54,9 +54,9 @@ This project includes several design optimization results from the experiments. 
 
 Contributions to this project are welcome, especially in the following areas:
 
-Testing and validating the functionality of iDesignGPT.
-Contributing new design tasks and optimization algorithms.
-Providing improvements and feedback on the existing model.
+- Testing and validating the functionality of iDesignGPT.
+- Contributing new design tasks and optimization algorithms.
+- Providing improvements and feedback on the existing model.
 
 If you're interested in contributing, please open an Issue to discuss your contributions, then submit a Pull Request.
 
