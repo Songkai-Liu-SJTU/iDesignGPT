@@ -65,6 +65,8 @@ At the temperature extremes:
 
 Following the temperature evaluation, the prompt was further refined to adopt a more detailed, structured approach using the **Chain-of-Thought (CoT)** framework. The refined prompt systematically guides the user through key design considerations. [View the refined prompt here](./refined_prompt).
 
+The refined prompt was tested with the optimized temperature setting of 5, resulting in stable and high-quality responses. [View the full response here](./response_refined_prompt@5_temp).
+
 ---
 
 ## File Structure Overview
