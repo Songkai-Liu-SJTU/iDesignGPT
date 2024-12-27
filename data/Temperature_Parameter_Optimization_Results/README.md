@@ -21,9 +21,9 @@ This supplementary note details the testing process for temperature settings to 
    [View the user input file](./user_input.md).
 
 4. **Temperature Range**: Responses were generated at temperature settings of **0**, **5**, and **10**, representing low, medium, and high randomness. The outputs at each temperature are available for review:
-- [Response at Temperature 0](./response_0_temp)
-- [Response at Temperature 5](./response_5_temp)
-- [Response at Temperature 10](./response_10_temp)
+- [Response at Temperature 0](./response_0_temp.md)
+- [Response at Temperature 5](./response_5_temp.md)
+- [Response at Temperature 10](./response_10_temp.md)
 
 5. **Platform**: All tests were conducted using GPT-4o through the FastGPT platform.
 
@@ -32,9 +32,9 @@ This supplementary note details the testing process for temperature settings to 
 ## Results
 
 The responses at different temperature levels (0, 5, 10) were evaluated for their structure, level of detail, and coherence. To illustrate the progression of response quality, you can review the detailed outputs in the following files:
-- [Temperature 0 Output](./response_0_temp)
-- [Temperature 5 Output](./response_5_temp)
-- [Temperature 10 Output](./response_10_temp)
+- [Temperature 0 Output](./response_0_temp.md)
+- [Temperature 5 Output](./response_5_temp.md)
+- [Temperature 10 Output](./response_10_temp.md)
 
 Key observations from the tests are summarized below:
 
@@ -63,9 +63,9 @@ At the temperature extremes:
 
 ## Prompt Refinement and Optimization
 
-Following the temperature evaluation, the prompt was further refined to adopt a more detailed, structured approach using the **Chain-of-Thought (CoT)** framework. The refined prompt systematically guides the user through key design considerations. [View the refined prompt here](./refined_prompt).
+Following the temperature evaluation, the prompt was further refined to adopt a more detailed, structured approach using the **Chain-of-Thought (CoT)** framework. The refined prompt systematically guides the user through key design considerations. [View the refined prompt here](./refined_prompt.md).
 
-The refined prompt was tested with the optimized temperature setting of 5, resulting in stable and high-quality responses. [View the full response here](./response_refined_prompt@5_temp).
+The refined prompt was tested with the optimized temperature setting of 5, resulting in stable and high-quality responses. [View the full response here](./response_refined_prompt@5_temp.md).
 
 ---
 
