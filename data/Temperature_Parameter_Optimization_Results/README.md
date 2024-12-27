@@ -75,11 +75,11 @@ Below is an overview of the files included in this directory and their purposes:
 
 - `prompt.md`: The standardized prompt used in the temperature testing.
 - `user_input.md`: Example user input provided during the tests.
-- `response_0_temp`: The output generated at temperature 0.
-- `response_5_temp`: The output generated at temperature 5.
-- `response_10_temp`: The output generated at temperature 10.
-- `refined_prompt`: The final refined prompt developed after analyzing test results.
-- `response_refined_prompt@5_temp`: The output generated using the refined prompt at temperature 5.
+- `response_0_temp.md`: The output generated at temperature 0.
+- `response_5_temp.md`: The output generated at temperature 5.
+- `response_10_temp.md`: The output generated at temperature 10.
+- `refined_prompt.md`: The final refined prompt developed after analyzing test results.
+- `response_refined_prompt@5_temp.md`: The output generated using the refined prompt at temperature 5.
 
 ---
 
