@@ -34,6 +34,8 @@ iDesignGPT is built on the [FastGPT](https://github.com/labring/FastGPT?tab=read
    ```bash
    git clone https://github.com/yourusername/iDesignGPT.git
    cd iDesignGPT
+   ```
+   
 2. Install and set up FastGPT: Please refer to the FastGPT README for installation instructions.
 
 3. Run the iDesignGPT design agents (prompts): Load the relevant prompt files into the FastGPT platform and execute them.
@@ -46,6 +48,7 @@ This project includes several design optimization results from the experiments. 
        ├── experiment1_results.csv
        ├── experiment2_results.csv
        └── ...
+   ```
 
 ## Contributing
 
