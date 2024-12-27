@@ -41,3 +41,24 @@ iDesignGPT is built on the [FastGPT](https://github.com/labring/FastGPT?tab=read
 ## Results and Visualization
 This project includes several design optimization results from the experiments. You can find the specific data in the data/ folder.
 
+   ```bash
+   /data
+       ├── experiment1_results.csv
+       ├── experiment2_results.csv
+       └── ...
+
+## Contributing
+
+Contributions to this project are welcome, especially in the following areas:
+
+Testing and validating the functionality of iDesignGPT.
+Contributing new design tasks and optimization algorithms.
+Providing improvements and feedback on the existing model.
+
+If you're interested in contributing, please open an Issue to discuss your contributions, then submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+If you'd like to experience iDesignGPT, feel free to contact me at [lsk555763@sjtu.edu.cn] with your interest. I can share a version of the iDesignGPT that I have personally built and set up for further testing and exploration.
