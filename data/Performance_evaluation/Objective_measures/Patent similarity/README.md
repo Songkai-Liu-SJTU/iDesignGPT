@@ -11,15 +11,15 @@ Patent similarity is calculated based on the **semantic similarity** between a g
 3. **Similarity Computation**  
    The final similarity score is computed as the **average cosine similarity** between the design vector and its 5 nearest patent neighbors:
 
-   $$
-   S = \frac{1}{5} \sum_{i=1}^{5} \cos\left( \mathbf{v}_{\text{design}},\ \mathbf{v}_{\text{patent}}^{(i)} \right)
-   $$
+```math
+S = \frac{1}{5} \sum_{i=1}^{5} \cos\left( \mathbf{v}_{\text{design}},\ \mathbf{v}_{\text{patent}}^{(i)} \right)
+```
 
-   where:  
-   - \( \mathbf{v}_{\text{design}} \): semantic vector representation of the design proposal  
-   - \( \mathbf{v}_{\text{patent}}^{(i)} \): semantic vector of the \(i\)-th closest patent
+   where:
+   - $\mathbf{v}_{\text{design}}$: semantic vector representation of the design proposal  
+   - $\mathbf{v}_{\text{patent}}^{(i)}$: semantic vector of the *i*-th closest patent
 
-The similarity score \(S\) ranges from 0 to 1, where higher values indicate **closer alignment with existing patent knowledge**, and lower values suggest greater novelty.
+The similarity score $S$ ranges from 0 to 1, where higher values indicate **closer alignment with existing patent knowledge**, and lower values suggest greater novelty.
 
 ---
 
