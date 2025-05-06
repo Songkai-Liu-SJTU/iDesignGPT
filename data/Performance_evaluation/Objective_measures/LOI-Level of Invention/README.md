@@ -10,4 +10,4 @@
 
 
 ## Ref.
-Abdul Rahim, Z. & Iqbal, M. S. Patented technology innovation portfolio in producing biofuel using the Theory of Inventive Problem Solving (TRIZ) methodology. Chem. Eng. Technol. 46, 2654–2660 (2023).
+Abdul Rahim, Z. & Iqbal, M. S. Patented technology innovation portfolio in producing biofuel using the Theory of Inventive Problem Solving (TRIZ) methodology. *Chem. Eng. Technol*. **46**, 2654–2660 (2023).
