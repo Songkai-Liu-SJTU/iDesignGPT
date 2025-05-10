@@ -538,7 +538,7 @@ except AttributeError as e:
     print(f"Error: {e}")
     print("Ensure that the 'umap-learn' library is installed correctly. You can install it using 'pip install umap-learn'.")
 
-# 对 t-SNE 和 UMAP 生成的二维嵌入计算凸包面积
+# Compute convex hull area for t-SNE and UMAP embeddings_2d
 print("Calculating design space coverage for t-SNE...")
 coverage_metrics_tsne, diversity_metrics_tsne = calculate_design_space_metrics_per_module(
     embeddings_tsne, step_indices, scheme_to_module, module_set
