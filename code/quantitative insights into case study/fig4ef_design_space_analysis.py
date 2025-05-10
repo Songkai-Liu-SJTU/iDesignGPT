@@ -6,8 +6,7 @@ Author: Songkai Liu @ Shanghai Jiao Tong University
 Date: 2024-09-24
 
 This script supports the advanced analysis and visualization of design spaces 
-and novelty metrics for conceptual engineering designs, as presented in the 
-paper submitted to *Nature Communications*.
+and novelty metrics for conceptual engineering designs.
 
 Features:
 ---------
